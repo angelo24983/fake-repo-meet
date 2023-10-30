@@ -1,20 +1,82 @@
 {
   "meet": [
     {
-      "id": 1,
-      "title": "hello"
+      "auctionId": "fakeAuctionId1",
+      "accountId": "fakeAccountId1",
+      "userId": "fakeUserId1",
+      "isOrganized": true,
+      "proposals": [
+        {
+          "id": 1,
+          "timestamp": "2023-09-17T09:15:27+00:00",
+          "accepted": true,
+          "link": "fakeMeetLinkUrl1"
+        },
+        {
+          "id": 2,
+          "timestamp": "2023-10-17T09:15:27+00:00",
+          "accepted": true,
+          "link": "fakeMeetLinkUrl2"
+        },
+        {
+          "id": 3,
+          "timestamp": "2024-03-17T09:15:27+00:00",
+          "accepted": true,
+          "link": "fakeMeetLinkUrl3"
+        }
+      ]
     },
     {
-      "id": 2,
-      "title": "hello 2"
+      "auctionId": "fakeAuctionId2",
+      "accountId": "fakeAccountId2",
+      "userId": "fakeUserId2",
+      "isOrganized": true,
+      "proposals": [
+        {
+          "id": 1,
+          "timestamp": "2023-09-17T09:15:27+00:00",
+          "accepted": true,
+          "link": "fakeMeetLinkUrl1"
+        },
+        {
+          "id": 2,
+          "timestamp": "2023-10-17T09:15:27+00:00",
+          "accepted": true,
+          "link": "fakeMeetLinkUrl2"
+        },
+        {
+          "id": 3,
+          "timestamp": "2024-03-17T09:15:27+00:00",
+          "accepted": true,
+          "link": "fakeMeetLinkUrl3"
+        }
+      ]
     },
     {
-      "id": 3,
-      "title": "hello 3"
-    },
-    {
-      "id": 4,
-      "title": "hello 4"
+      "auctionId": "fakeAuctionId3",
+      "accountId": "fakeAccountId3",
+      "userId": "fakeUserId3",
+      "isOrganized": true,
+      "proposals": [
+        {
+          "id": 1,
+          "timestamp": "2023-09-17T09:15:27+00:00",
+          "accepted": true,
+          "link": "fakeMeetLinkUrl1"
+        },
+        {
+          "id": 2,
+          "timestamp": "2023-10-17T09:15:27+00:00",
+          "accepted": true,
+          "link": "fakeMeetLinkUrl2"
+        },
+        {
+          "id": 3,
+          "timestamp": "2024-03-17T09:15:27+00:00",
+          "accepted": true,
+          "link": "fakeMeetLinkUrl3"
+        }
+      ]
     }
   ]
 }

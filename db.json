@@ -1,6 +1,7 @@
 {
   "meet": [
     {
+      "_id": 1,
       "auctionId": "fakeAuctionId1",
       "accountId": "fakeAccountId1",
       "userId": "fakeUserId1",
@@ -27,6 +28,7 @@
       ]
     },
     {
+      "_id": 2,
       "auctionId": "fakeAuctionId2",
       "accountId": "fakeAccountId2",
       "userId": "fakeUserId2",
@@ -53,6 +55,7 @@
       ]
     },
     {
+      "_id": 3,
       "auctionId": "fakeAuctionId3",
       "accountId": "fakeAccountId3",
       "userId": "fakeUserId3",
